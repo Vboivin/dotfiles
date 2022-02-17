@@ -24,7 +24,7 @@ M.plugins = {
 }
 
 M.ui = {
-  theme = "night-owl",
+  theme = "monokai",
 }
 
 return M
